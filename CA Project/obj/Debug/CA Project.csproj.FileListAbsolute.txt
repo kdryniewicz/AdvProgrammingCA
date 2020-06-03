@@ -1,0 +1,28 @@
+P:\Advanced Programming\CA Project\CA Project\bin\Debug\CA Project.exe.config
+P:\Advanced Programming\CA Project\CA Project\bin\Debug\CA Project.exe
+P:\Advanced Programming\CA Project\CA Project\bin\Debug\CA Project.pdb
+P:\Advanced Programming\CA Project\CA Project\obj\Debug\CA Project.csprojAssemblyReference.cache
+P:\Advanced Programming\CA Project\CA Project\obj\Debug\MainWindow.g.cs
+P:\Advanced Programming\CA Project\CA Project\obj\Debug\App.g.cs
+P:\Advanced Programming\CA Project\CA Project\obj\Debug\CA Project_MarkupCompile.cache
+P:\Advanced Programming\CA Project\CA Project\obj\Debug\CA Project_MarkupCompile.lref
+P:\Advanced Programming\CA Project\CA Project\obj\Debug\MainWindow.baml
+P:\Advanced Programming\CA Project\CA Project\obj\Debug\CA Project.g.resources
+P:\Advanced Programming\CA Project\CA Project\obj\Debug\CA_Project.Properties.Resources.resources
+P:\Advanced Programming\CA Project\CA Project\obj\Debug\CA Project.csproj.GenerateResource.cache
+P:\Advanced Programming\CA Project\CA Project\obj\Debug\CA Project.exe
+P:\Advanced Programming\CA Project\CA Project\obj\Debug\CA Project.pdb
+P:\Advanced Programming\S00160273 - Konrad Dryniewicz - AdvProg CA\CA Project\bin\Debug\CA Project.exe.config
+P:\Advanced Programming\S00160273 - Konrad Dryniewicz - AdvProg CA\CA Project\bin\Debug\CA Project.exe
+P:\Advanced Programming\S00160273 - Konrad Dryniewicz - AdvProg CA\CA Project\bin\Debug\CA Project.pdb
+P:\Advanced Programming\S00160273 - Konrad Dryniewicz - AdvProg CA\CA Project\obj\Debug\CA Project.csprojAssemblyReference.cache
+P:\Advanced Programming\S00160273 - Konrad Dryniewicz - AdvProg CA\CA Project\obj\Debug\MainWindow.g.cs
+P:\Advanced Programming\S00160273 - Konrad Dryniewicz - AdvProg CA\CA Project\obj\Debug\App.g.cs
+P:\Advanced Programming\S00160273 - Konrad Dryniewicz - AdvProg CA\CA Project\obj\Debug\CA Project_MarkupCompile.cache
+P:\Advanced Programming\S00160273 - Konrad Dryniewicz - AdvProg CA\CA Project\obj\Debug\CA Project_MarkupCompile.lref
+P:\Advanced Programming\S00160273 - Konrad Dryniewicz - AdvProg CA\CA Project\obj\Debug\MainWindow.baml
+P:\Advanced Programming\S00160273 - Konrad Dryniewicz - AdvProg CA\CA Project\obj\Debug\CA Project.g.resources
+P:\Advanced Programming\S00160273 - Konrad Dryniewicz - AdvProg CA\CA Project\obj\Debug\CA_Project.Properties.Resources.resources
+P:\Advanced Programming\S00160273 - Konrad Dryniewicz - AdvProg CA\CA Project\obj\Debug\CA Project.csproj.GenerateResource.cache
+P:\Advanced Programming\S00160273 - Konrad Dryniewicz - AdvProg CA\CA Project\obj\Debug\CA Project.exe
+P:\Advanced Programming\S00160273 - Konrad Dryniewicz - AdvProg CA\CA Project\obj\Debug\CA Project.pdb
